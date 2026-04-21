@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 673b9e40b523e4e74a1c4dc0252ad9ce, type: 3}
+  m_Name: OreGridData
+  m_EditorClassIdentifier: 
+  rowCount: 8
+  columnCount: 17
+  origin: {x: -2.48, y: 0, z: 2.53}
+  rowStep: {x: 0.76, y: 0, z: -0.68}
+  columnStep: {x: 0.68, y: 0, z: 0.76}

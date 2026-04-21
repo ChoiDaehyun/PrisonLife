@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1710d76a683bd42ac9384f42188a52d1, type: 3}
+  m_Name: CarryMachineData
+  m_EditorClassIdentifier: 
+  purchaseCost: 50
+  moveSpeed: 2
+  carryAmount: 5
+  point1: {x: -7.83, y: 0.51, z: -0.217}
+  point2: {x: -6.58, y: 0.51, z: -5.09}
+  spawnPosition: {x: -6.58, y: 0.51, z: -5.09}
