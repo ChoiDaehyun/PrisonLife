@@ -1,9 +1,7 @@
-<img width="400" height="400" alt="KakaoTalk_Photo_2025-08-22-18-00-42" src="https://github.com/user-attachments/assets/ec64d9fb-beda-41e1-815b-c0d948e45052" />
-
-# 🗼 Tower Breaker ⚡️
+# 💰 Prisoner Life 💰
 
 ## 소개 🤓
-공격, 방어, 스킬로 탑을 클리어하며 오르는 게임
+재화를 수집, 변환, 제출하여 감옥을 성장시키는 게임
 
 ### 시연 영상 링크
 [https://youtu.be/lpMD4BoxaoY](https://youtube.com/shorts/kJx-baQaOZU?feature=share)
