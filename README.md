@@ -14,24 +14,33 @@
 
 
 ### 광석 채굴(기본 도구(곡괭이)) + 재화 보유 + MAX
-<img width="260" height="470" alt="스크린샷 2026-04-22 16 46 55" src="https://github.com/user-attachments/assets/b915b714-4909-4ed5-8fc7-3fa62ccef573" />
-<img width="260" height="470" alt="스크린샷 2026-04-22 16 47 20" src="https://github.com/user-attachments/assets/bb329559-03d7-4b31-a332-ed4e9df8400c" />
+<img width="260" height="470" alt="스크린샷 2026-04-22 16 46 55" src="https://github.com/user-attachments/assets/b915b714-4909-4ed5-8fc7-3fa62ccef573" />|<img width="260" height="470" alt="스크린샷 2026-04-22 16 47 20" src="https://github.com/user-attachments/assets/bb329559-03d7-4b31-a332-ed4e9df8400c" />
+---|---|
 
 
+### Ore 제출 🪨 + Ore -> Silver + Silver 획득
+<img width="260" height="470" alt="스크린샷 2026-04-22 16 47 42" src="https://github.com/user-attachments/assets/b18abd5a-997e-4568-9eb2-77dedaf10fd0" />|<img width="260" height="470" alt="스크린샷 2026-04-22 16 47 59" src="https://github.com/user-attachments/assets/77fa572f-8acf-4c4e-9ff4-fc8a9b7f72dd" />|<img width="260" height="470" alt="스크린샷 2026-04-22 16 48 20" src="https://github.com/user-attachments/assets/552f0581-2e0e-4a7e-9dba-b73e9500d433" />
+---|---|---|
 
 
-게임 모드를 선택할 수 있다.
+### Silver 제출 + Silver -> Money
+<img width="260" height="470" alt="스크린샷 2026-04-22 16 48 33" src="https://github.com/user-attachments/assets/d550dde9-93a9-42c9-91fe-3447e11566b4" />|<img width="520" height="936" alt="스크린샷 2026-04-22 16 48 43" src="https://github.com/user-attachments/assets/3c73d9c9-b971-49e2-a397-5b76071bc3df" />
+---|---|
 
-Chasing Game, Time Attack, Training, Setting, Quit 중에 선택하여 클릭하면 해당 화면으로 전환된다.
 
-### Setting
-<img width="467" height="302" alt="스크린샷 2025-11-26 15 49 22" src="https://github.com/user-attachments/assets/b899647b-ded8-42a9-b80d-85ccdc402818" />
+### Money 제출(드릴 구매존) + 장비(드릴) 변경
+<img width="260" height="470" alt="스크린샷 2026-04-22 16 49 08" src="https://github.com/user-attachments/assets/71a9375a-f163-49ea-8c15-5101967d719a" />|<img width="260" height="470" alt="스크린샷 2026-04-22 16 49 22" src="https://github.com/user-attachments/assets/0f72d09b-f351-4b7c-9da4-25bd74d6cff7" />
+---|---|
 
-차량을 변경할 수 있다.
+### Money 제출(인부 고용존) + 인부 고용
+<img width="260" height="470" alt="스크린샷 2026-04-22 16 49 47" src="https://github.com/user-attachments/assets/b769bd77-ca25-416a-bb65-75c17986c17f" />|<img width="260" height="470" alt="스크린샷 2026-04-22 16 50 02" src="https://github.com/user-attachments/assets/4e5336dd-920c-490e-98ef-032b88048258" />
+---|---|
 
-### Chasing
-<img width="400" height="256" alt="스크린샷 2025-11-26 15 47 34" src="https://github.com/user-attachments/assets/a39237d4-5123-45e4-b653-3abadbd01ccf" />
-<img width="400" height="256" alt="스크린샷 2025-11-26 15 49 33" src="https://github.com/user-attachments/assets/4bfcf82c-f4a4-4aac-8835-bd768be837cf" />
+### Money 제출(중장비 구매존) + 장비(중장비) 변경
+<img width="260" height="470" alt="스크린샷 2026-04-22 16 50 41" src="https://github.com/user-attachments/assets/33605837-1d7d-4f96-be2e-6eb6dc1313b9" />|<img width="260" height="470" alt="스크린샷 2026-04-22 16 51 08" src="https://github.com/user-attachments/assets/226c4a5c-722a-4ee3-924f-61fff5ec15d3" />
+---|---|
+
+
 
 
 경찰차를 피해 오래도록 살아남는 것이 Chasing 모드의 목표다.
